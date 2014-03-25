@@ -2,7 +2,8 @@
 Aryabhata
 
 ## Authors
-- Sainath Varanasi, varanasisaigithub
+- Sainath Varanasi.
+- https://github.com/varanasisaigithub/
 
 ## Description
 
