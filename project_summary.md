@@ -9,9 +9,7 @@ Aryabhata
 Inspired by workshop.chromeexperiments.com
 
 ## Link to Prototype
-github.io link
-
-[Aryabhata](http://aryabhata.co.in "Aryabhata")
+[Aryabhata](http://aryabhatas.github.io "Aryabhata")
 
 ## Example Code
 ```
