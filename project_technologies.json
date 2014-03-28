@@ -1,13 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "none"
         ],
         "platforms": [
-            "insert platforms"
+            "windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "web-gl"
         ]
     },
     "themes": [
