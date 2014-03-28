@@ -2,21 +2,18 @@
 Aryabhata
 
 ## Authors
-- Sainath Varanasi.
-- https://github.com/varanasisaigithub/
+- Sainath Varanasi. https://github.com/varanasisaigithub/
+- Shaik Abdul Kaleem. https://github.com/skaleem4/
 
 ## Description
 
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
 
 ## Link to Prototype
 github.io link
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
+[Aryabhata](http://aryabhata.co.in "Aryabhata")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
 function test() {
   console.log("Printing a test");
@@ -24,6 +21,8 @@ function test() {
 ```
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+
+Web-GL 
 
 [Example Link](http://www.google.com "Example Link")
 
