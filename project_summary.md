@@ -6,7 +6,7 @@ Aryabhata
 - Shaik Abdul Kaleem. https://github.com/skaleem4/
 
 ## Description
-
+Inspired by workshop.chromeexperiments.com
 
 ## Link to Prototype
 github.io link
@@ -20,14 +20,9 @@ function test() {
 }
 ```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-Web-GL 
-
-[Example Link](http://www.google.com "Example Link")
+web-gl 
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
