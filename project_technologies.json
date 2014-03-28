@@ -11,8 +11,6 @@
         ]
     },
     "themes": [
-        "css"
-        "javascript"
-        "html"
+        "none"
     ]
 }
