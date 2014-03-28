@@ -1,4 +1,4 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+Learning process - Participating to learn more about the power of HTML, CSS and Javascript - Thanks to Google. 
 
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
